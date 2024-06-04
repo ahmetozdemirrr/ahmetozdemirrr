@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code since 9 years old. I started with Visual Basic 6.0, but have found a passion for embedded development so I started to learn C in high school. Then, I graduated with a 4-year Bachelor of Science in Computer Engineering.
+I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence and machine learning for smart assistants, system programming, Android development and interpreter design. You can also find my works on these areas in my repos.
 
 * 🌍  I'm based in Gebze/Kocaeli, Turkey
 * ✉️  You can contact me at [ao7252167@gmail.com](mailto:ao7252167@gmail.com)
