@@ -24,5 +24,5 @@ I've been learning to code since 9 years old. I started with Visual Basic 6.0, b
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/ahmetozdemirrr"><img src="https://github-readme-stats.vercel.app/api?username=ozanselte&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ozanselte's GitHub stats" /></a>
+<a href="https://github.com/ahmetozdemirrr"><img src="https://github-readme-stats.vercel.app/api?username=ahmetozdemirrr&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmetozdemir's GitHub stats" /></a>
 
