@@ -20,9 +20,8 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://rasa.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.rasa.com/static/rasa-logo-1-165fd0aa7d1aa29b5422cd19ccf3bdf2.svg" width="36" height="36" alt="RASA" />
+  <img src="https://github.com/ahmetozdemirrr/ahmetozdemirrr/raw/main/rasa-logo.svg" width="36" height="36" alt="RASA" />
 </a>
-
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
 </p>
