@@ -22,6 +22,7 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 <a href="https://rasa.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmetozdemirrr/ahmetozdemirrr/blob/main/RASA.svg" width="64" height="36" alt="RASA" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
+<a href="https://android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-colored.svg" width="36" height="36" alt="Android" /></a>
 </p>
 
 ### Language Statistics
