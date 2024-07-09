@@ -9,7 +9,7 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 * 🌍  I'm leave in Gebze/Kocaeli, Turkey
 * ✉️  You can contact me at [ao7252167@gmail.com](mailto:ao7252167@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="afrat1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet" /> </p>
 
 ### Skills
 
