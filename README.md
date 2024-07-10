@@ -1,7 +1,7 @@
 Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmet Özdemir
 ==================================================================================================================================
 
-Software Engineer
+Computer Engineer and Computer Science
 -----------------
 
 I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence and machine learning for smart assistants, system programming, Android development and interpreter design. You can also find my works on these areas in my repos.
