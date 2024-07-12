@@ -14,9 +14,9 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://java.com)
-[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/)
-[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://www.cprogramming.com/)
+[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://gcc.gnu.org/)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/) 
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://java.com) 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
