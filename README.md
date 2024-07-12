@@ -13,19 +13,25 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 
 ### Skills
 
+
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://java.com)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://www.cprogramming.com/)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=blender&theme=light)](https://www.blender.org/)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://www.github.com/)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://www.linux.org/)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://www.ubuntu.com/)
+[![My Skills](https://skillicons.dev/icons?i=arch&theme=light)](https://www.archlinux.org/)
+[![My Skills](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://developer.android.com)
 <a href="https://rasa.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmetozdemirrr/ahmetozdemirrr/blob/main/RASA.svg" width="64" height="36" alt="RASA" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/></a>
-</p>
 
 ### Language Statistics
 
