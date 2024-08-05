@@ -20,16 +20,12 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
-[![My Skills](https://skillicons.dev/icons?i=blender&theme=light)](https://www.blender.org/)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://www.github.com/)
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://www.linux.org/)
 [![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=light)](https://www.ubuntu.com/)
 [![My Skills](https://skillicons.dev/icons?i=arch&theme=light)](https://www.archlinux.org/)
 [![My Skills](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash/)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio&theme=light)](https://developer.android.com)
 <a href="https://rasa.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmetozdemirrr/ahmetozdemirrr/blob/main/RASA.svg" width="64" height="36" alt="RASA" /></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/></a>
 
