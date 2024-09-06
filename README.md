@@ -4,7 +4,7 @@ Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Computer Engineer and Computer Science
 -----------------
 
-I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence (Natural language processing), machine learning, RASA framewoek for smart assistants, system programming (with C language), Android development (with Java) and interpreter design (yacc and flex). You can also find my works on these areas in my repos.
+I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence (Natural language processing), machine learning, RASA framewoek for smart assistants, system programming (with C language), Android development (with Java). You can also find my works on these areas in my repos.
 
 * 🌍  I'm leave in Gebze/Kocaeli, Turkey
 * ✉️  You can contact me at [ao7252167@gmail.com](mailto:ao7252167@gmail.com)
