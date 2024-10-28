@@ -7,7 +7,7 @@ Computer Engineer and Computer Science
 I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence (Natural language processing), machine learning, RASA framewoek for smart assistants, system programming (with C language), Android development (with Java). You can also find my works on these areas in my repos.
 
 * 🌍  I'm leave in Gebze/Kocaeli, Turkey
-* ✉️  You can contact me at [ao7252167@gmail.com](mailto:ao7252167@gmail.com)
+* ✉️  You can contact me at [by mail](mailto:ahmetozdemiir.ao@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet" /> </p>
 
@@ -30,7 +30,7 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 ### Language Statistics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetozdemirrr&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ahmetozdemirrr" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetozdemirrr&show_icons=true&locale=en&layout=compact&langs_count=12&hide=HTML" alt="ahmetozdemirrr" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetozdemirrr&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=22c55e&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true&cache_seconds=1800" alt="ahmetozdemir's GitHub stats" />
 </p>
 
