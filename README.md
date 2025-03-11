@@ -7,7 +7,7 @@ Computer Engineer and Computer Science
 I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence (Natural language processing), machine learning, RASA framewoek for smart assistants, system programming (with C language), Android development (with Java). You can also find my works on these areas in my repos.
 
 * 🌍  I live in Gebze/Kocaeli, Turkey
-* ✉️  You can contact me at [by mail](mailto:ahmetozdemiir.ao@gmail.com)
+* ✉️  You can contact me [here](mailto:ahmetozdemiir.ao@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet" /> </p>
 
