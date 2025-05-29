@@ -17,11 +17,10 @@ I am a 4th year student at Gebze Technical University; I have sufficient compete
 [![My Skills](https://skillicons.dev/icons?i=c&theme=light)](https://gcc.gnu.org/)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://cplusplus.com/) 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=haskell&theme=light)](https://www.haskell.org/)
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://www.linux.org/)
 [![My Skills](https://skillicons.dev/icons?i=bash&theme=light)](https://www.gnu.org/software/bash/)
 <a href="https://rasa.com" target="_blank" rel="noreferrer"><img src="https://github.com/ahmetozdemirrr/ahmetozdemirrr/blob/main/RASA.svg" width="64" height="36" alt="RASA" /></a>
