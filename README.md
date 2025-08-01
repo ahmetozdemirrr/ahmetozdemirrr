@@ -4,7 +4,7 @@ Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Computer Engineer and Computer Science
 -----------------
 
-I am a 4th year student at Gebze Technical University; I have sufficient competence in areas such as artificial intelligence (Natural language processing), machine learning, RASA framewoek for smart assistants, system programming (with C language), Android development (with Java). You can also find my works on these areas in my repos.
+I'm a dedicated Computer Science and Engineering student at Gebze Technical University, proficient in system programming and machine learning. With a strong foundation in C, UNIX/Linux, and Python, I excel in crafting efficient, low-level systems and intelligent AI solutions. Check out my work to see my expertise in action!
 
 * 🌍  I live in Gebze/Kocaeli, Turkey
 * ✉️  You can contact me [here](mailto:ahmetozdemiir.ao@gmail.com)
